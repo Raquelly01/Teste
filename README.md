@@ -6,3 +6,8 @@
 ###### Quimica
 ###### Arte
 ###### Fisíca
+##### Hobbie 
+##### Correr 
+##### Dança
+##### Skate
+##### Escutar Musica
