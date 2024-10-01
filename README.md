@@ -6,7 +6,7 @@
 ###### Quimica
 ###### Arte
 ###### Fisíca
-##### Hobbie 
+#####  HOBBIE
 ##### Correr 
 ##### Dança
 ##### Skate
